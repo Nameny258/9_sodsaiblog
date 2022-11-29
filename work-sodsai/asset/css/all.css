@@ -1,0 +1,11 @@
+.a-nav-menu{
+  color: white;
+  text-decoration: none!important;
+}
+.a-nav-menu:hover{
+  color: #FFFF3F !important;
+}
+.show-img{
+  width: 300px!important;
+  height: 300px!important;
+}
